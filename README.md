@@ -15,24 +15,7 @@ The District data did not show any difference which proves consistency in the da
 **How is the school summary affected?**
 The overall School data showed little to no difference, similar to the District data.
 
+## **Summary:** 
+Upon removing the ninth grade data there showed to be little to no effect on the overall metrics. 
 
-**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** 
-The over all passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing shrinks by 0.3 %.
-
-# **How does replacing the ninth-grade scores affect the following:**
-
-**Math and reading scores by grade**
-TEST ANSWER
-
-**Scores by school spending**
-TEST ANSWER
-
-**Scores by school size**
-TEST ANSWER
-
-**Scores by school type**
-TEST ANSWER
-
-**Summary:** 
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
