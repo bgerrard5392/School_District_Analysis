@@ -2,7 +2,8 @@
 Module 4 analysis 
 
 # Project Overview 
-Maria is the chief data scientist for a city school district. She has requested an analysis of school spending and standardized test scores.
+The purpose of this project is to assist Maria, a City School District Chief Data Scientist, conduct analysis on standardized test data and school spending. We'll use this analysis to produce insights and performance trends that will ultimately help the school board and superintedent make smarter decisions regarding the schools budgets and priorities. 
+
 
 # Results
 
@@ -15,5 +16,6 @@ Scores by school spending
 Scores by school size
 Scores by school type
 
-# Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+# Summary: 
+Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
