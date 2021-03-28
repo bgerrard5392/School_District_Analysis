@@ -10,6 +10,8 @@ The purpose of this project is to assist Maria, a City School District Chief Dat
 **How is the district summary affected?**
 
 The District data did not show any difference which proves consistency in the data. The Passing Math Score is relatively high at 75% as well as the Passing Reading scoresat 86%.
+![district_summary](https://user-images.githubusercontent.com/75700317/112767851-faecb900-8fe6-11eb-8a92-1a7b242a9671.JPG)
+
 
 **How is the school summary affected?**
 The over all passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing shrinks by 0.3 %.
